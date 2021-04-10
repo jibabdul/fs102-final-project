@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "The Eye",
+        "artist": "McCormix",
+        "year": "2020",
+        "medium": "watercolor",
+        "img": "images/collection/Rectangle-123.png"
+    },
+
+    {
+        "id": "2",
+        "title": "Dios Bias",
+        "artist": "Carlo Corletta",
+        "year": "2010",
+        "medium": "procreate",
+        "img": "images/collection/Rectangle-124.png"
+    },
+
+    {
+        "id": "3",
+        "title": "Titular Frompe",
+        "artist": "Kiddeaux Deauxma",
+        "year": "1982",
+        "medium": "Excel",
+        "img": "images/collection/Rectangle-125.png"
+    }
+
+] 
